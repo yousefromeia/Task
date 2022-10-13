@@ -1,0 +1,14 @@
+.print , .priceeee {
+  width: auto;
+  height: auto;
+  background-color: rgb(177, 80, 80);
+  color: black;
+  padding: 10px;
+  display: none;
+}
+.priceeee{
+  margin-top: 20px;
+}
+img{
+  cursor: pointer;
+}
